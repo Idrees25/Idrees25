@@ -1,3 +1,4 @@
+![logo](https://github.com/Idrees25/Idrees25/blob/main/Cover.png)
 <h1 align="center">Hi 👋, I'm Idrees Muhammed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
