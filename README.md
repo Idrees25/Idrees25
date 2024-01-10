@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Idrees Muhammed</h1>
+[<h1 align="center">Hi 👋, I'm Idrees Muhammed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idrees25&show_icons=true&locale=en" alt="idrees25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrees25&" alt="idrees25" /></p>
+](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif
