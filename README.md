@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Idrees Muhammed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Data Analysis" width="400" ser="![image](https://github.com/Idrees25/Idrees25/assets/141672769/d7e6ec27-b2c5-44dc-aa08-413339aa5311)
-">
+<img align="right" alt="Data Analysis" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idrees25&label=Profile%20views&color=0e75b6&style=flat" alt="idrees25" /> </p>
 
 - 🌱 I’m currently learning **Microsoft Power Automate**
 
 - 📫 How to reach me **i.muhammed.knl@gmail.com**
 
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tzcHuptOeLWUr9agl3xutrGiuEP9XSZp/view?usp=sharing](https://drive.google.com/file/d/1tzcHuptOeLWUr9agl3xutrGiuEP9XSZp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
