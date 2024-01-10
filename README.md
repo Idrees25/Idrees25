@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Idrees Muhammed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Data Analysis" width="400" ser="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif">
+<img align="right" alt="Data Analysis" width="400" ser="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchools.in%2Fcrash-course-in-data-science%2F&psig=AOvVaw0k_uGs663VqD7r4yKBt3RG&ust=1704954980585000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD6qMCa0oMDFQAAAAAdAAAAABAI">
 
 
 - 🌱 I’m currently learning **Microsoft Power Automate**
 
 - 📫 How to reach me **i.muhammed.knl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tzcHuptOeLWUr9agl3xutrGiuEP9XSZp/view?usp=sharing](https://drive.google.com/file/d/1tzcHuptOeLWUr9agl3xutrGiuEP9XSZp/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
