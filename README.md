@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Idrees Muhammed</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<img align="right" alt="Data Analysis" width="400" ser="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idrees25" alt="idrees25" /></a> </p>
 
 - 🌱 I’m currently learning **Microsoft Power Automate**
 
